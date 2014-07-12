@@ -2,7 +2,7 @@
 
 ## Description
 
-Most pedometers count all steps equally, but climbing stairs burns calories faster than just walking. iOS 8 introduces a new Core Motion class `CLAltimiter` that can be used to count flights of stairs climbed.
+Most pedometers count all steps equally, but climbing stairs burns calories faster than just walking. iOS 8 introduces a new Core Motion class `CMAltimiter` that can be used to count flights of stairs climbed.
 
 ## Project Location
 
