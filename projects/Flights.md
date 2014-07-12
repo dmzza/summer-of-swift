@@ -12,6 +12,8 @@ http://github.com/dmzza/Flights
 
 - David Mazza — @dmzza
 - Jonathan Adler — @hydrajump
+- Ramona Dsouza - @ramonadevelop
+- Sithu Aung - @sithu
 
 
 ## Updates
